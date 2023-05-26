@@ -1,0 +1,11 @@
+Model Information:
+* title:	Air Pods Pro
+* source:	https://sketchfab.com/3d-models/air-pods-pro-40b434f607e24f52925dc27877751f1a
+* author:	bashoot (https://sketchfab.com/bashoot)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Air Pods Pro" (https://sketchfab.com/3d-models/air-pods-pro-40b434f607e24f52925dc27877751f1a) by bashoot (https://sketchfab.com/bashoot) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
